@@ -1,0 +1,371 @@
+v 20100214 2
+P 0 8000 600 8000 1 0 0
+{
+T 0 8000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 7995 5 10 1 1 0 0 1
+pinlabel=PB6 (XTAL1)
+T 505 8045 5 10 1 1 0 6 1
+pinnumber=7
+T 0 8000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 7600 600 7600 1 0 0
+{
+T 0 7600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 7595 5 10 1 1 0 0 1
+pinlabel=PB7 (XTAL2)
+T 505 7645 5 10 1 1 0 6 1
+pinnumber=8
+T 0 7600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1000 600 1000 1 0 0
+{
+T 0 1000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 995 5 10 1 1 0 0 1
+pinlabel=PD5
+T 505 1045 5 10 1 1 0 6 1
+pinnumber=9
+T 0 1000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 600 600 600 1 0 0
+{
+T 0 600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 595 5 10 1 1 0 0 1
+pinlabel=PD6
+T 505 645 5 10 1 1 0 6 1
+pinnumber=10
+T 0 600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1800 600 1800 1 0 0
+{
+T 0 1800 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1795 5 10 1 1 0 0 1
+pinlabel=PD3
+T 505 1845 5 10 1 1 0 6 1
+pinnumber=1
+T 0 1800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 1400 600 1400 1 0 0
+{
+T 0 1400 5 10 0 0 0 0 1
+pintype=unknown
+T 655 1395 5 10 1 1 0 0 1
+pinlabel=PD4
+T 505 1445 5 10 1 1 0 6 1
+pinnumber=2
+T 0 1400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 4200 10400 3600 10400 1 0 0
+{
+T 4200 10400 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 10395 5 10 1 1 0 6 1
+pinlabel=VCC
+T 3695 10445 5 10 1 1 0 0 1
+pinnumber=4
+T 4200 10400 5 10 0 0 180 0 1
+pinseq=0
+}
+P 4200 8000 3600 8000 1 0 0
+{
+T 4200 8000 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 7995 5 10 1 1 0 6 1
+pinlabel=GND
+T 3695 8045 5 10 1 1 0 0 1
+pinnumber=5
+T 4200 8000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 0 4600 600 4600 1 0 0
+{
+T 0 4600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 4595 5 10 1 1 0 0 1
+pinlabel=PC6 (RESET)
+T 505 4645 5 10 1 1 0 6 1
+pinnumber=29
+T 0 4600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3000 600 3000 1 0 0
+{
+T 0 3000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 2995 5 10 1 1 0 0 1
+pinlabel=PD0 (RXD)
+T 505 3045 5 10 1 1 0 6 1
+pinnumber=30
+T 0 3000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2600 600 2600 1 0 0
+{
+T 0 2600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 2595 5 10 1 1 0 0 1
+pinlabel=PD1 (TXD)
+T 505 2645 5 10 1 1 0 6 1
+pinnumber=31
+T 0 2600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 2200 600 2200 1 0 0
+{
+T 0 2200 5 10 0 0 0 0 1
+pintype=unknown
+T 655 2195 5 10 1 1 0 0 1
+pinlabel=PD2
+T 505 2245 5 10 1 1 0 6 1
+pinnumber=32
+T 0 2200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 4200 9400 3600 9400 1 0 0
+{
+T 4200 9400 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 9395 5 10 1 1 0 6 1
+pinlabel=AREF
+T 3695 9445 5 10 1 1 0 0 1
+pinnumber=20
+T 4200 9400 5 10 0 0 180 0 1
+pinseq=0
+}
+P 4200 8400 3600 8400 1 0 0
+{
+T 4200 8400 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 8395 5 10 1 1 0 6 1
+pinlabel=GND
+T 3695 8445 5 10 1 1 0 0 1
+pinnumber=3
+T 4200 8400 5 10 0 0 180 0 1
+pinseq=0
+}
+P 0 7000 600 7000 1 0 0
+{
+T 0 7000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 6995 5 10 1 1 0 0 1
+pinlabel=PC0 (ADC0)
+T 505 7045 5 10 1 1 0 6 1
+pinnumber=23
+T 0 7000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 6600 600 6600 1 0 0
+{
+T 0 6600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 6595 5 10 1 1 0 0 1
+pinlabel=PC1 (ADC1)
+T 505 6645 5 10 1 1 0 6 1
+pinnumber=24
+T 0 6600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 9200 600 9200 1 0 0
+{
+T 0 9200 5 10 0 0 0 0 1
+pintype=unknown
+T 655 9195 5 10 1 1 0 0 1
+pinlabel=PB3 (MOSI)
+T 505 9245 5 10 1 1 0 6 1
+pinnumber=15
+T 0 9200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 8800 600 8800 1 0 0
+{
+T 0 8800 5 10 0 0 0 0 1
+pintype=unknown
+T 655 8795 5 10 1 1 0 0 1
+pinlabel=PB4 (MISO)
+T 505 8845 5 10 1 1 0 6 1
+pinnumber=16
+T 0 8800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 8400 600 8400 1 0 0
+{
+T 0 8400 5 10 0 0 0 0 1
+pintype=unknown
+T 655 8395 5 10 1 1 0 0 1
+pinlabel=PB5 (SCK)
+T 505 8445 5 10 1 1 0 6 1
+pinnumber=17
+T 0 8400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 4200 9000 3600 9000 1 0 0
+{
+T 4200 9000 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 8995 5 10 1 1 0 6 1
+pinlabel=AVCC
+T 3695 9045 5 10 1 1 0 0 1
+pinnumber=18
+T 4200 9000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 0 200 600 200 1 0 0
+{
+T 0 200 5 10 0 0 0 0 1
+pintype=unknown
+T 655 195 5 10 1 1 0 0 1
+pinlabel=PD7
+T 505 245 5 10 1 1 0 6 1
+pinnumber=11
+T 0 200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 10400 600 10400 1 0 0
+{
+T 0 10400 5 10 0 0 0 0 1
+pintype=unknown
+T 655 10395 5 10 1 1 0 0 1
+pinlabel=PB0
+T 505 10445 5 10 1 1 0 6 1
+pinnumber=12
+T 0 10400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 10000 600 10000 1 0 0
+{
+T 0 10000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 9995 5 10 1 1 0 0 1
+pinlabel=PB1
+T 505 10045 5 10 1 1 0 6 1
+pinnumber=13
+T 0 10000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 9600 600 9600 1 0 0
+{
+T 0 9600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 9595 5 10 1 1 0 0 1
+pinlabel=PB2
+T 505 9645 5 10 1 1 0 6 1
+pinnumber=14
+T 0 9600 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 6200 600 6200 1 0 0
+{
+T 0 6200 5 10 0 0 0 0 1
+pintype=unknown
+T 655 6195 5 10 1 1 0 0 1
+pinlabel=PC2 (ADC2)
+T 505 6245 5 10 1 1 0 6 1
+pinnumber=25
+T 0 6200 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 5800 600 5800 1 0 0
+{
+T 0 5800 5 10 0 0 0 0 1
+pintype=unknown
+T 655 5795 5 10 1 1 0 0 1
+pinlabel=PC3 (ADC3)
+T 505 5845 5 10 1 1 0 6 1
+pinnumber=26
+T 0 5800 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 5400 600 5400 1 0 0
+{
+T 0 5400 5 10 0 0 0 0 1
+pintype=unknown
+T 655 5395 5 10 1 1 0 0 1
+pinlabel=PC4 (ADC4/SDA)
+T 505 5445 5 10 1 1 0 6 1
+pinnumber=27
+T 0 5400 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 5000 600 5000 1 0 0
+{
+T 0 5000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 4995 5 10 1 1 0 0 1
+pinlabel=PC5 (ADC5/SCL)
+T 505 5045 5 10 1 1 0 6 1
+pinnumber=28
+T 0 5000 5 10 0 0 0 0 1
+pinseq=0
+}
+B 600 0 3000 10600 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 2400 6700 9 10 1 0 270 0 1
+ATMega48/88/168/328 (TQFP)
+T 695 10800 8 10 1 1 0 0 1
+refdes=IC?
+T -5 -200 8 10 0 1 0 0 1
+footprint=TQFP32_7.fp
+P 4200 10000 3600 10000 1 0 0
+{
+T 4200 10000 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 9995 5 10 1 1 0 6 1
+pinlabel=VCC
+T 3695 10045 5 10 1 1 0 0 1
+pinnumber=6
+T 4200 10000 5 10 0 0 180 0 1
+pinseq=0
+}
+P 4200 7600 3600 7600 1 0 0
+{
+T 4200 7600 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 7595 5 10 1 1 0 6 1
+pinlabel=GND
+T 3695 7645 5 10 1 1 0 0 1
+pinnumber=21
+T 4200 7600 5 10 0 0 180 0 1
+pinseq=0
+}
+P 4200 7200 3600 7200 1 0 0
+{
+T 4200 7200 5 10 0 0 180 0 1
+pintype=unknown
+T 3545 7195 5 10 1 1 0 6 1
+pinlabel=GND
+T 3695 7245 5 10 1 1 0 0 1
+pinnumber=5
+T 4200 7200 5 10 0 0 180 0 1
+pinseq=0
+}
+P 0 4000 600 4000 1 0 0
+{
+T 0 4000 5 10 0 0 0 0 1
+pintype=unknown
+T 655 3995 5 10 1 1 0 0 1
+pinlabel=ADC6
+T 505 4045 5 10 1 1 0 6 1
+pinnumber=19
+T 0 4000 5 10 0 0 0 0 1
+pinseq=0
+}
+P 0 3600 600 3600 1 0 0
+{
+T 0 3600 5 10 0 0 0 0 1
+pintype=unknown
+T 655 3595 5 10 1 1 0 0 1
+pinlabel=ADC7
+T 505 3645 5 10 1 1 0 6 1
+pinnumber=22
+T 0 3600 5 10 0 0 0 0 1
+pinseq=0
+}
