@@ -184,3 +184,9 @@ T 1300 1300 8 10 0 1 0 0 1
 documentation=http://www.analog.com/static/imported-files/data_sheets/ADuM5000.pdf
 T 1400 1500 8 10 0 1 0 0 1
 footprint=SO16
+T 1700 2500 8 10 0 1 0 0 1
+author=coldnew <coldnew.tw@gmail.com>
+T 1800 1500 8 10 0 1 0 0 1
+dist-license=GPL
+T 1200 1100 8 10 0 1 0 0 1
+use-license=unlimited
