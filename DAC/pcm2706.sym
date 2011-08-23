@@ -323,7 +323,7 @@ P 1600 0 1600 400 1 0 0
 T 1600 0 5 10 0 0 0 0 1
 pintype=in
 T 1600 550 5 10 1 1 90 0 1
-pinlabel=SSPND
+pinlabel=\_SSPND\_
 T 1550 400 5 10 1 1 90 6 1
 pinnumber=11
 T 1600 0 5 10 0 0 0 0 1
