@@ -1,0 +1,104 @@
+v 20110115 2
+B 300 0 4000 1700 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+P 0 1300 300 1300 1 0 0
+{
+T -300 1400 5 10 0 0 0 0 1
+pintype=in
+T 355 1295 5 10 1 1 0 0 1
+pinlabel=VDD
+T 205 1345 5 10 1 1 0 6 1
+pinnumber=1
+T -300 1400 5 10 0 0 0 0 1
+pinseq=1
+}
+P 0 1000 300 1000 1 0 0
+{
+T -300 1100 5 10 0 0 0 0 1
+pintype=io
+T 355 995 5 10 1 1 0 0 1
+pinlabel=GP5/T1CKI/OSC1/CLKIN
+T 205 1045 5 10 1 1 0 6 1
+pinnumber=2
+T -300 1100 5 10 0 0 0 0 1
+pinseq=2
+}
+P 0 700 300 700 1 0 0
+{
+T -300 800 5 10 0 0 0 0 1
+pintype=io
+T 355 695 5 10 1 1 0 0 1
+pinlabel=GP4/\_T1G\_/OSC2/CLKOUT
+T 205 745 5 10 1 1 0 6 1
+pinnumber=3
+T -300 800 5 10 0 0 0 0 1
+pinseq=3
+}
+P 0 400 300 400 1 0 0
+{
+T -300 500 5 10 0 0 0 0 1
+pintype=in
+T 355 395 5 10 1 1 0 0 1
+pinlabel=GP3/\_MCLR\_/VPP
+T 205 445 5 10 1 1 0 6 1
+pinnumber=4
+T -300 500 5 10 0 0 0 0 1
+pinseq=4
+}
+P 4600 400 4300 400 1 0 0
+{
+T 4900 300 5 10 0 0 180 0 1
+pintype=io
+T 4245 395 5 10 1 1 0 6 1
+pinlabel=GP2/T0CKI/INT/COUT
+T 4395 445 5 10 1 1 0 0 1
+pinnumber=5
+T 4900 300 5 10 0 0 180 0 1
+pinseq=5
+}
+P 4600 700 4300 700 1 0 0
+{
+T 4900 600 5 10 0 0 180 0 1
+pintype=io
+T 4245 695 5 10 1 1 0 6 1
+pinlabel=GP1/CIN-/ICSPCLK
+T 4395 745 5 10 1 1 0 0 1
+pinnumber=6
+T 4900 600 5 10 0 0 180 0 1
+pinseq=6
+}
+P 4600 1000 4300 1000 1 0 0
+{
+T 4900 900 5 10 0 0 180 0 1
+pintype=io
+T 4245 995 5 10 1 1 0 6 1
+pinlabel=GP0/CIN+/ICSPDAT
+T 4395 1045 5 10 1 1 0 0 1
+pinnumber=7
+T 4900 900 5 10 0 0 180 0 1
+pinseq=7
+}
+P 4600 1300 4300 1300 1 0 0
+{
+T 4900 1200 5 10 0 0 180 0 1
+pintype=in
+T 4245 1295 5 10 1 1 0 6 1
+pinlabel=VSS
+T 4395 1345 5 10 1 1 0 0 1
+pinnumber=8
+T 4900 1200 5 10 0 0 180 0 1
+pinseq=8
+}
+T 1800 100 8 10 1 1 0 0 1
+value=PIC12F629
+T -22200 -29300 8 10 0 1 0 0 1
+author=coldnew <coldnew.tw@gmail.com>
+T -21400 -28900 8 10 0 1 0 0 1
+dist-license=GPL
+T -22000 -28400 8 10 0 1 0 0 1
+use-license=unlimited
+T -21900 -28700 8 10 0 1 0 0 1
+documentation=http://ww1.microchip.com/downloads/en/devicedoc/41190c.pdf
+T -18300 -27500 8 10 0 1 0 0 1
+device=PIC2F629
+T 400 1800 8 10 1 1 0 0 1
+refdes=U?
